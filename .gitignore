@@ -1,0 +1,14 @@
+
+# Python virtual environments
+.venv/
+Experiment-4-EDA/.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment variables and secrets
+.env
